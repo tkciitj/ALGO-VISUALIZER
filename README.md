@@ -94,14 +94,13 @@ Follow the steps below to run the project locally.
 - **macOS:**
   ```bash
   brew install ffmpeg
-Linux: 
+- **Linux:**
+  ```bash
   sudo apt install ffmpeg
-Google AI Studio API Key
-
-git clone https://github.com/YOUR_USERNAME/algo-visualizer.git
-cd algo-visualizer
-
-python -m venv venv
+  Google AI Studio API Key
+  git clone https://github.com/YOUR_USERNAME/algo-visualizer.git
+  cd algo-visualizer
+  python -m venv venv
 # Windows
 venv\Scripts\activate
 # macOS/Linux
