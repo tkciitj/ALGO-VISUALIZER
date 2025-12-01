@@ -28,6 +28,8 @@ This ensures every final output video is **flawless and executable** without use
 
 ## 🎥 Demo
 
+<img width="853" height="820" alt="image" src="https://github.com/user-attachments/assets/74cd824d-2f50-4413-8beb-5df15c184345" />
+
 https://github.com/user-attachments/assets/8cee3b84-a503-43be-b3b4-437ce634b4ec
 
 Example: A user inputs **Quick Sort pseudocode** along with a custom array and instantly receives a verified animated visualization.
