@@ -112,21 +112,16 @@ GOOGLE_API_KEY = "YOUR_ACTUAL_API_KEY_HERE"
 
 streamlit run app_streamlit.py
 
-# Project Structure
+- **Project Structure**
+  ```bash
   algo-visualizer/
-  
   ├── app_streamlit.py        # Main Streamlit web interface
-  
   ├── dspy_master_prompt.py  # Master prompt and Gemini interaction
-  
   ├── manim_runner.py        # Script execution, rendering, and error capture
-  
   ├── json_response_fixer.py # Utility to repair malformed AI JSON output
-  
   ├── requirements.txt       # Python dependencies
-  
   └── README.md              # Documentation
-  
+
 # Contributors
   Tushar Kant – Developer
   
