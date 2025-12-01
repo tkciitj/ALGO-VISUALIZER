@@ -110,7 +110,7 @@ pip install -r requirements.txt
 GOOGLE_API_KEY = "YOUR_ACTUAL_API_KEY_HERE"
 
 streamlit run app_streamlit.py
-### Project Structure
+# Project Structure
   algo-visualizer/
   ├── app_streamlit.py        # Main Streamlit web interface
   ├── dspy_master_prompt.py  # Master prompt and Gemini interaction
@@ -118,9 +118,10 @@ streamlit run app_streamlit.py
   ├── json_response_fixer.py # Utility to repair malformed AI JSON output
   ├── requirements.txt       # Python dependencies
   └── README.md              # Documentation
-### Contributors
+# Contributors
   Tushar Kant – Developer
+  
   Akshay Bachu – Developer
 
-### Acknowledgement
+# Acknowledgement
   Special thanks to Anshul Thakur and Prof. Pallavi Jain for their mentorship and guidance in evolving this system from a simple prompt pipeline into a powerful self-healing iteration architecture.
