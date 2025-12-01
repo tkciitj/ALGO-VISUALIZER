@@ -14,7 +14,7 @@ st.title("🎥 Algo Visualizer")
 # ----------------------------
 # Gemini API Setup
 # ----------------------------
-API_KEY = "AIzaSyAc3jwtgdU9LasAIf6Wl4uc99lf4-HEZIU"
+API_KEY = "YOUR_API_KEY"
 genai.configure(api_key=API_KEY)
 
 # ----------------------------
@@ -185,3 +185,4 @@ Rules:
     else:
         st.error("Rendering failed even after all refinement attempts.")
         st.code(result.stdout + "\n" + result.stderr)
+
